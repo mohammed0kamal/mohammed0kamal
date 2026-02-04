@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 ```dart
-class AhmedAdel {
+class Kamal {
   String role = " >Backend Developer 🧠 &Problem Solver";
   String language = "Arabic&English";
   List<String> skills = [
