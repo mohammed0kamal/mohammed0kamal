@@ -19,7 +19,7 @@ class Kamal {
   String role = " >Backend Developer 🧠 &Problem Solver";
   String language = "Arabic&English";
   List<String> skills = [
-    "Python, Java,",
+    "Python, Java, Html,css",
     "Simplify Code"
   ];
 }
@@ -36,7 +36,7 @@ class Kamal {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,vscode,github,Html,Css" />
 </p>
 
 ---
