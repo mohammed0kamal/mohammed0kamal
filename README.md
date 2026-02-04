@@ -1,63 +1,50 @@
-<h1 align="center">Hi, I'm Mohmmed kamal 👋</h1>
-<h3 align="center">Backend Developer 🧠 | Content Creator 🎥 |Problem Solver  🧠📚</h3>
+<h1 align="center">Hi, I'm Mohammed Kamal 👋</h1>
+<h3 align="center">Backend Developer | Problem Solver | Content Creator</h3>
 
 <p align="center">
- 
-  <a href="https://linkedin.com/in/Mohmmed_ kamal-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+  <a href="https://linkedin.com/in/mohammed-kamal-11bba6177">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Kamal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
----
+  <a href="https://www.youtube.com/@Learn_Simply/videos?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/EngmohammedKamel">
+    <img src="https://img.shields.io/badge/Facebook-Mohammed%20Kamal-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 ## 🚀 About Me
 
-```dart
-class Kamal {
-  String role = " >Backend Developer 🧠 &Problem Solver";
-  String language = "Arabic&English";
-  List<String> skills = [
-    "Python, Java, Html,css",
-    "Simplify Code"
-  ];
+```java
+class MohammedKamal {
+    String role = "Backend Developer & Problem Solver";
+    String languages = "Arabic & English";
+    String[] skills = {
+        "Java",
+        "Python",
+        "HTML",
+        "CSS",
+        "OOP & Clean Code"
+    };
 }
-```
-## 🔥 Highlights
+🔥 Highlights
 
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
+👨‍💻 Backend-focused developer using Java & Python
 
----
+🧠 Strong understanding of OOP & problem-solving
 
-## 🧰 Tech Toolbox
+✍️ Writing content about learning & personal growth
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,vscode,github,Html,Css" />
-</p>
+🎯 Focused on building clean and practical solutions
 
----
+🧰 Tech Toolbox
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,github,vscode" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EngmohammedKamel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngmohammedKamel&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
+⚡ Motto
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
----
-
-## 🎬 My YouTube Focus
-
-- ✅ 
-- ✅ **Problem-solving** & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
+“Build with clarity, learn with purpose.”
