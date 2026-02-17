@@ -25,17 +25,18 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
-dart
+
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : {  "Python","Java" },
-    "OtherLanguages" : { "HTML", "CSS" },
-    "Editors" : { "Vscode" },
-    "OtherTools" : { "Git" }
+class About extends Me {
+  static const Map<String, Set<String>> myTools = {
+    "ProgrammingLanguages": {"Python", "Java"},
+    "OtherLanguages": {"HTML", "CSS"},
+    "Editors": {"VSCode"},
+    "OtherTools": {"Git"},
   };
 }
+
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25" />   I’m currently learning Databases. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
 
