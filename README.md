@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="DEadcOde"  width="40%"/><br> 
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
@@ -52,7 +52,7 @@ class About extends Me {
 </h1>
 
 <div align="center" style="margin: 20px 0;">
-  <!-- أيقونات اللغات -->
+ 
   <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" style="margin:0 10px;" />
   <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" style="margin:0 10px;" />
   <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML" style="margin:0 10px;" />
@@ -61,7 +61,7 @@ class About extends Me {
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color: #34495e; max-width: 600px; margin: auto;">
   🚀 Passionate about Java Backend Development & building scalable applications.<br>
-  🐍 Enhancing problem-solving skills with Python.<br>
+  🐍 Enhancing problem-solving skills with java & Python.<br>
   🌐 Designing modern responsive websites using HTML & CSS.
 </p>
 
