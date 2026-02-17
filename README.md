@@ -46,6 +46,31 @@ class About extends Me {
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/lightning.gif" width="12" />   Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </div> <details> <summary>More stats</summary> <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details> <hr>
+<hr>
 
+<h2 align="center">📊 GitHub Stats for mohammed0kamal</h2>
 
+<div align="center">
+
+<!-- أيقونات اللغات -->
+<img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" />
+<img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" />
+<img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS" />
+
+</div>
+
+<br>
+
+<p align="center">
+  🚀 Passionate about Java Backend Development<br>
+  🐍 Improving problem solving with Python<br>
+  🌐 Designing websites with HTML & CSS
+</p>
+
+<!-- GitHub Profile Views Badge -->
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=mohammed0kamal&style=flat&color=orange&label=PROFILE+VIEWS)
+</p>
+
+<hr>
