@@ -7,8 +7,11 @@
   <figcaption style="font-weight: bold; font-size: 1.2em; margin-bottom: 10px;">DEadcOde</figcaption> 
 
   <details>
-    <summary><strong>Currently coding & focusing on :</strong></summary>
-  </details>
+  <summary><strong>Focused on Problem Solving & Algorithms</strong></summary>
+  
+I am currently focused on improving my problem solving skills and mastering algorithms. This includes practicing data structures, solving coding challenges, and learning efficient approaches to common problems.
+  
+</details>
 
   <!-- عدلت اسم المستخدم هنا من SP-XD لـ mohammed0kamal -->
   ![Totals Hits](https://komarev.com/ghpvc/?username=mohammed0kamal&style=flat&color=orange&label=PROFILE+VIEWS)
