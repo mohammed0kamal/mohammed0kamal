@@ -45,32 +45,29 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="25" />   Ask me about PC building, Movies, or anything. <br>
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/lightning.gif" width="12" />   Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
-
 <hr>
 
-<h2 align="center">📊 GitHub Stats for mohammed0kamal</h2>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50;">
+  📈 GitHub Profile Overview — <span style="color:#f39c12;">mohammed0kamal</span>
+</h1>
 
-<div align="center">
-
-<!-- أيقونات اللغات -->
-<img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" />
-<img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" />
-<img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS" />
-
+<div align="center" style="margin: 20px 0;">
+  <!-- أيقونات اللغات -->
+  <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" style="margin:0 10px;" />
+  <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" style="margin:0 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML" style="margin:0 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS" style="margin:0 10px;" />
 </div>
 
-<br>
-
-<p align="center">
-  🚀 Passionate about Java Backend Development<br>
-  🐍 Improving problem solving with Python<br>
-  🌐 Designing websites with HTML & CSS
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color: #34495e; max-width: 600px; margin: auto;">
+  🚀 Passionate about Java Backend Development & building scalable applications.<br>
+  🐍 Enhancing problem-solving skills with Python.<br>
+  🌐 Designing modern responsive websites using HTML & CSS.
 </p>
 
 <!-- GitHub Profile Views Badge -->
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=mohammed0kamal&style=flat&color=orange&label=PROFILE+VIEWS)
+<p align="center" style="margin-top: 25px;">
+  <img src="https://komarev.com/ghpvc/?username=mohammed0kamal&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <hr>
