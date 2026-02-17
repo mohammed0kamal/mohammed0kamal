@@ -37,9 +37,10 @@ class About extends Me {
   };
 }
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25" />   I’m currently learning Frappe. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25" />   I’m currently learning Databases. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hyperkitty.gif" width="20" />   I like exploring GNU/Linux. <br>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hyperkitty.gif" width="20" />  Currently focusing on Java Backend, OOP, and Database Integration.
+ <br>
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="25" />   Ask me about PC building, Movies, or anything. <br>
 
@@ -49,4 +50,16 @@ class About extends Me {
 
 Code Cycle<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/> ```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammed0kamal/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/mohammed0kamal/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/mohammed0kamal/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</div>
+
+<details>
+<summary>More stats</summary>
+  <img align="center" src="https://raw.githubusercontent.com/mohammed0kamal/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+</details>
+
+<hr>
+
