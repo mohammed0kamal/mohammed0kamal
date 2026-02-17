@@ -25,7 +25,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
-```dart
+dart
 // tools_I_use organized
 
 class About extends Me { 
@@ -36,6 +36,7 @@ class About extends Me {
     "OtherTools" : { "Git" }
   };
 }
+
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25" />   I’m currently learning Frappe. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hyperkitty.gif" width="20" />   I like exploring GNU/Linux. <br>
